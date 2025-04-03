@@ -1,1 +1,6 @@
 streamlit
+pandas
+PyMuPDF
+sentence-transformers
+scikit-learn
+openpyxl
