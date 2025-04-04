@@ -4,3 +4,4 @@ PyMuPDF
 sentence-transformers
 scikit-learn
 openpyxl
+plotly
